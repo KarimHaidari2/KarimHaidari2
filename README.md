@@ -13,8 +13,11 @@ I learn by building — most of what's here is hands-on lab work: setting up VPN
 
 ### Tools & Technologies
 **Security:** CrowdStrike Falcon (EDR/SIEM) · MITRE ATT&CK · Pentera · Nmap · OSINT
+
 **Systems:** Linux (Ubuntu, Rocky, Arch) · Windows Server · Docker · WireGuard
+
 **Languages:** Python · Java · C · Bash
+
 **Concepts:** Incident Response (NIST) · Digital Forensics · Vulnerability Assessment · IAM
 
 ### Recognition
