@@ -12,13 +12,14 @@ I learn by building — most of what's here is hands-on lab work: setting up VPN
 - Building out my home lab: networking, virtualization, and self-hosted security tools
 
 ### Tools & Technologies
+
 **Security:** CrowdStrike Falcon (EDR/SIEM) · MITRE ATT&CK · Pentera · Nmap · OSINT
 
-               **Systems:** Linux (Ubuntu, Rocky, Arch) · Windows Server · Docker · WireGuard
+**Systems:** Linux (Ubuntu, Rocky, Arch) · Windows Server · Docker · WireGuard
 
-                **Languages:** Python · Java · C · Bash
+**Languages:** Python · Java · C · Bash
 
-                 **Concepts:** Incident Response (NIST) · Digital Forensics · Vulnerability Assessment · IAM
+**Concepts:** Incident Response (NIST) · Digital Forensics · Vulnerability Assessment · IAM
 
 ### Recognition
 - **Letter of Appreciation — PayPal Financial Crime Intelligence & Investigations** for OSINT submissions with measurable impact on cryptocurrency fraud detection
